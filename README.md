@@ -1,1 +1,3 @@
 # ArtifactBuilder
+
+![ArtifactBuilder](screenshot.png)
